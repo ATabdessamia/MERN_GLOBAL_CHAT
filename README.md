@@ -1,5 +1,5 @@
 # MERN_CHAT_APP
-![GitHub Logo](/uploads/shot1-1.png)
+![GitHub Logo](/uploads/shot-1.png)
 ## Available Scripts
 
 To see my joke, you can run:
